@@ -1,1 +1,1 @@
-# project-35
+# Tablet-SPCK-PRO-C35-Project Template
